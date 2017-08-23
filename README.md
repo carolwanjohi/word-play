@@ -5,7 +5,7 @@
 ## By **[John Mutavi](https://github.com/jonnygovish) and [Carol Wanjohi](https://carolwanjohi.github.io/)**
 
 ## Description
-This displays the work done at [Moringa School](http://moringaschool.com/) by [John Mutavi](https://github.com/jonnygovish) and [Carol Wanjohi](https://carolwanjohi.github.io/). It is a project that enables the contributors to create a form where the user can input a sentence and the contributors turn the sentence into an array and manipilate it using the spli method then dsplay the sentence back to the user.
+This is a project that enables the contributors to create a form where the user can input a sentence and the contributors turn the sentence into an array and manipilate it using the split method then dsplay the sentence back to the user.
 
 ## Known Bugs
 
